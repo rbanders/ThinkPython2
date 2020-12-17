@@ -1,9 +1,11 @@
 # Exercise 2.1
+
 pi = 3.1415926535897932
 r = 5
 print(4/3*pi*r**3)
 
 # Exercise 2.2
+
 shipping = 3 + 0.75 * 59
 book = 24.95
 discount = 24.95 * 0.40
@@ -18,4 +20,4 @@ tempo = (7*60+12)*3
 finish_hour = (start+easy+tempo)/(60*60.0)
 finish_floored = (start+easy+tempo)//(60*60)
 finish_minute = (finish_hour - finish_floored)*60
-print ('Finish time was %d:%d' % (finish_hour,finish_minute))
+print ('Finish time was %d:%d' % (finish_hour, finish_minute))
