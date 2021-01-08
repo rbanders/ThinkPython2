@@ -10,7 +10,9 @@ def recurse(n, s):
 recurse(3, 0)
 
 1. What would happen if you called this function like this: recurse(-1, 0)?
+
 # infinite recursion
+
 2. Write a docstring that explains everything someone would need to know
 in order to use this function (and nothing else)."""
 
